@@ -1,4 +1,5 @@
-## Examples for School work experiance
+## Examples for HSST Advanced Computing (HPE114)
+
 Author: A Chalkley
 
 run with:
